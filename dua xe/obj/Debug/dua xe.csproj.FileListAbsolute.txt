@@ -1,0 +1,11 @@
+C:\Users\sky\OneDrive\Tài liệu\C#\dua xe\dua xe\bin\Debug\dua xe.exe.config
+C:\Users\sky\OneDrive\Tài liệu\C#\dua xe\dua xe\bin\Debug\dua xe.exe
+C:\Users\sky\OneDrive\Tài liệu\C#\dua xe\dua xe\bin\Debug\dua xe.pdb
+C:\Users\sky\OneDrive\Tài liệu\C#\dua xe\dua xe\obj\Debug\dua xe.csproj.AssemblyReference.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\dua xe\dua xe\obj\Debug\dua xe.csproj.SuggestedBindingRedirects.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\dua xe\dua xe\obj\Debug\dua_xe.Form1.resources
+C:\Users\sky\OneDrive\Tài liệu\C#\dua xe\dua xe\obj\Debug\dua_xe.Properties.Resources.resources
+C:\Users\sky\OneDrive\Tài liệu\C#\dua xe\dua xe\obj\Debug\dua xe.csproj.GenerateResource.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\dua xe\dua xe\obj\Debug\dua xe.csproj.CoreCompileInputs.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\dua xe\dua xe\obj\Debug\dua xe.exe
+C:\Users\sky\OneDrive\Tài liệu\C#\dua xe\dua xe\obj\Debug\dua xe.pdb
